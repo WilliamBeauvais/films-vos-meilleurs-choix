@@ -16,4 +16,8 @@
 .top-picks__wrapper {
   display: flex;
   margin: 0 -5px;
+}
+
+body {
+  background-color: #866723;
 }/*# sourceMappingURL=style.css.map */
